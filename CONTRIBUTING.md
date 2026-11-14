@@ -1,0 +1,29 @@
+# Contributing to Choutes Project
+
+Thank you for your interest in Choutes Project. By taking part in the project you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Bug reports and suggestions
+
+Report bugs and suggest features or improvements in the [issue tracker](https://github.com/Choutes-Project/Choutes-Project/issues), with the [bug report](https://github.com/Choutes-Project/Choutes-Project/issues/new?template=bug_report.yml) or [suggestion](https://github.com/Choutes-Project/Choutes-Project/issues/new?template=suggestion.yml) form. Search the open issues first; if the problem is already there, add what you know to it.
+
+When you report a problem, describe what you did, what you expected, and what happened instead. Run `choutes-diag` in Konsole and attach the file `choutes-diag.txt` from your home folder; it lists the system, graphics, and driver details needed to look into the problem.
+
+## Questions and help
+
+Ask questions and get help on the [Choutes Project Discord server](https://discord.gg/nYdsKv7Fra) and in the [Help Center](https://help.choutes.com).
+
+Report security vulnerabilities privately, as described in the [security policy](SECURITY.md).
+
+## Changes to Choutes Project
+
+The source repositories are maintained by the Choutes Project team. If you would like to help with code, artwork, translations, or testing, introduce yourself on the [Choutes Project Discord server](https://discord.gg/nYdsKv7Fra) and describe what you would like to work on. The team gives access to the repositories that the work needs.
+
+Do not share secrets, private keys, passwords, or access tokens, in any channel.
+
+## Commit messages
+
+Choutes Project uses [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): `<type>(<optional scope>): <summary in the imperative mood>`, with the types `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, and `revert`. Changes are recorded in each repository's `CHANGELOG.md` in the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format.
+
+## License
+
+Unless a repository states otherwise, contributions are licensed under the GNU General Public License, version 3 or (at your option) any later version.
